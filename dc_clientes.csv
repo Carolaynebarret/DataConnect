@@ -1,0 +1,63 @@
+cliente_id,cliente,setor,porte,cidade,uf,data_cadastro
+CLI001,Umbu S.A.  ,,Pequeno,Rio de Janeiro,Rio de Janeiro,2021-10-13
+CLI002,Xingu S.A.,Indústria,Médio,Florianópolis,SC,2021-03-07
+CLI003,Aurora S.A.,Saúde,Médio,Curitiba,PR,2021-02-24
+CLI004,Rubi Ltda,Logística,Pequeno,Florianópolis,SC,2024-04-21
+CLI005,Ipê S.A.,Logística,Pequeno,Belo Horizonte,MG,15/11/2021
+CLI006,Granito Participações,Indústria,Pequeno,São Paulo,SP,06-jan-2023
+CLI007,Coral Participações,Educação,Grande,Fortaleza,CE,02/03/2025
+CLI008,Orion Holding  ,Logística,Pequeno,São Paulo,SP,2022-08-24
+CLI009,Basalto Brasil,Energia,Médio,Fortaleza,CE,2024-12-13
+CLI010,Cristal S.A.,EDUCAÇÃO,Grande,Curitiba,PR,2025-10-18
+CLI011,Horizonte S.A.,Educação,Médio,Salvador,BA,2025-09-05
+CLI012,Laguna Ltda,Energia,Pequeno,Recife,pe,01/07/2022
+CLI013,Windsor Brasil,,Médio,São Paulo,SP,30-dez-2023
+CLI014,Xingu Ltda, Agronegócio ,Pequeno,Belo Horizonte,MG,08/03/2024
+CLI015,Windsor Holding  ,Energia,Grande,Curitiba,PR,2025-05-09
+CLI016,Boreal Ltda,Energia,Pequeno,Rio de Janeiro,RJ,2021-05-16
+CLI017,Granito Holding,Saúde,Médio,Recife,PE,2023-03-22
+CLI018,Duna Azul Brasil,Serviços Financeiros,Pequeno,Brasília,Brasília,2022-05-21
+CLI019,Xingu Holding,EDUCAÇÃO,Médio,Florianópolis,SC,28/05/2023
+CLI020,Duna Azul Holding,Energia,Pequeno,Salvador,BA,11-out-2021
+CLI021,Quartzo Group,Varejo,Grande,São Paulo,SP,11/10/2021
+CLI022,Umbu Ltda  ,Setor Público,Pequeno,Salvador,BA,2023-02-21
+CLI023,Tucano Group,Educação,Grande,Florianópolis,sc,2025-10-29
+CLI024,Aurora Brasil,Tecnologia,Médio,São Paulo,SP,2025-04-24
+CLI025,Umbu Participações,,Pequeno,São Paulo,SP,2023-07-19
+CLI026,Ipê Holding,Tecnologia,Grande,Belo Horizonte,MG,18/11/2025
+CLI027,Quartzo Holding, Serviços Financeiros ,Pequeno,Curitiba,PR,27-nov-2021
+CLI028,Rubi Holding,SETOR PÚBLICO,Pequeno,Rio de Janeiro,RJ,02/09/2021
+CLI029,Dunas Participações  ,Saúde,Pequeno,Porto Alegre,RS,2025-12-04
+CLI030,Serena S.A.,Agronegócio,Grande,São Paulo,SP,2025-04-07
+CLI031,Everest Brasil,Tecnologia,Pequeno,Brasília,DF,2023-12-17
+CLI032,Coral Holding,Saúde,Grande,Salvador,BA,2025-03-27
+CLI033,Xingu Brasil,Educação,Pequeno,Curitiba,PR,07/10/2024
+CLI034,Orion S.A.,Saúde,Pequeno,Curitiba,pr,13-fev-2021
+CLI035,Serena Holding,Setor Público,Pequeno,Curitiba,Curitiba,05/26/2021
+CLI036,Cristal Holding  ,Educação,Médio,Curitiba,PR,2022-03-15
+CLI037,Serena Group,,Grande,Curitiba,PR,2022-01-25
+CLI038,Dunas S.A.,Energia,Pequeno,Salvador,BA,2023-08-15
+CLI039,Coral Brasil,Indústria,Pequeno,Rio de Janeiro,RJ,2025-01-31
+CLI040,Kairós S.A., Saúde ,Pequeno,Curitiba,PR,08/07/2023
+CLI041,Everest Group,Educação,Médio,Belo Horizonte,MG,26-nov-2025
+CLI042,Ébano S.A.,Tecnologia,Pequeno,Brasília,DF,08/28/2024
+CLI043,Rubi S.A.  ,Saúde,Pequeno,São Paulo,SP,2023-09-22
+CLI044,Pantanal Ltda,Varejo,Pequeno,Salvador,BA,2021-01-05
+CLI045,Manaca Participações,Educação,Pequeno,Brasília,df,2025-02-05
+CLI046,Âncora Holding,SERVIÇOS FINANCEIROS,Pequeno,Brasília,DF,2022-03-22
+CLI047,Boreal Holding,Varejo,Médio,Florianópolis,SC,28/04/2021
+CLI048,Pantanal Holding,Serviços Financeiros,Pequeno,Florianópolis,SC,07-nov-2023
+CLI049,Cristal Ltda,,Pequeno,São Paulo,SP,11/01/2025
+CLI050,Horizonte Group  ,Setor Público,Pequeno,São Paulo,SP,2024-05-02
+CLI051,Cristal Group,Setor Público,Médio,Fortaleza,CE,2022-06-19
+CLI052,Granito Brasil,Saúde,Pequeno,Recife,Recife,2021-09-26
+CLI053,Vertente Brasil, Agronegócio ,Pequeno,Porto Alegre,RS,2025-03-20
+CLI054,Aurora Group,Setor Público,Grande,Fortaleza,CE,31/05/2021
+CLI055,Quartzo Participações,ENERGIA,Grande,Belo Horizonte,MG,06-dez-2025
+CLI056,Horizonte Participações,Serviços Financeiros,Pequeno,Porto Alegre,rs,01/18/2024
+CLI057,Windsor Participações  ,Tecnologia,Pequeno,Fortaleza,CE,2025-08-01
+CLI058,Rubi Participações,Serviços Financeiros,Pequeno,São Paulo,SP,2025-12-28
+CLI059,Dunas Brasil,Serviços Financeiros,Pequeno,Florianópolis,SC,2024-05-23
+CLI060,Kairós Ltda,Tecnologia,Médio,Porto Alegre,RS,2026-01-29
+CLI004,Rubi Ltda,Logística,Pequeno,Florianópolis,SC,2024-04-21
+CLI028,Rubi Holding,SETOR PÚBLICO,Pequeno,Rio de Janeiro,RJ,02/09/2021

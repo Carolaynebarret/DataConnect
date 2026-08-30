@@ -1,0 +1,104 @@
+pesquisa_id,projeto_id,data_pesquisa,nota_nps,comentario
+PSQ0001,PRJ0001,2024-05-27,,"Resultado ok, prazo apertado."
+PSQ0002,PRJ0003,2025-10-20,10,Documentação impecável.
+PSQ0003,PRJ0004,2024-05-08,9,Documentação impecável.
+PSQ0004,PRJ0005,2025-03-27,7,"Bom projeto, comunicação pode melhorar."
+PSQ0005,PRJ0006,17/07/2025,6,Suporte demorou a responder.
+PSQ0006,PRJ0010,06-nov-2024,9,Ganhamos agilidade nas decisões.
+PSQ0007,PRJ0011,09/15/2025,7,"Bom projeto, comunicação pode melhorar."
+PSQ0008,PRJ0013,2025-01-21,8,Atendeu ao combinado.
+PSQ0009,PRJ0014,2024-11-27,6,Precisamos refazer parte do painel.
+PSQ0010,PRJ0015,2025-12-29,8,"Resultado ok, prazo apertado."
+PSQ0011,PRJ0016,2026-07-02,9,Ganhamos agilidade nas decisões.
+PSQ0012,PRJ0017,26/03/2025,10,O painel virou rotina da diretoria.
+PSQ0013,PRJ0018,02-dez-2025,7,Atendeu ao combinado.
+PSQ0014,PRJ0019,03/03/2025,9,O painel virou rotina da diretoria.
+PSQ0015,PRJ0020,2024-04-11,,O painel virou rotina da diretoria.
+PSQ0016,PRJ0022,2026-04-09,10,Documentação impecável.
+PSQ0017,PRJ0023,2026-04-28,8,"Resultado ok, prazo apertado."
+PSQ0018,PRJ0024,2025-12-19,10,Ganhamos agilidade nas decisões.
+PSQ0019,PRJ0025,30/04/2025,8,"Resultado ok, prazo apertado."
+PSQ0020,PRJ0026,06-fev-2026,8,"Resultado ok, prazo apertado."
+PSQ0021,PRJ0028,11/06/2024,9,Ganhamos agilidade nas decisões.
+PSQ0022,PRJ0029,2025-11-27,7,"Bom projeto, comunicação pode melhorar."
+PSQ0023,PRJ0030,2024-10-28,10,O painel virou rotina da diretoria.
+PSQ0024,PRJ0031,2024-11-25,8,Atendeu ao combinado.
+PSQ0025,PRJ0032,2026-06-29,10,Ganhamos agilidade nas decisões.
+PSQ0026,PRJ0033,21/02/2024,10,Ganhamos agilidade nas decisões.
+PSQ0027,PRJ0034,01-jul-2024,5,Suporte demorou a responder.
+PSQ0028,PRJ0035,04/21/2025,9,Ganhamos agilidade nas decisões.
+PSQ0029,PRJ0037,2025-06-27,,O painel virou rotina da diretoria.
+PSQ0030,PRJ0039,2025-03-18,9,Entrega no prazo e time muito atencioso.
+PSQ0031,PRJ0041,2025-08-11,8,"Resultado ok, prazo apertado."
+PSQ0032,PRJ0043,2025-12-22,9,Documentação impecável.
+PSQ0033,PRJ0044,16/06/2025,10,Entrega no prazo e time muito atencioso.
+PSQ0034,PRJ0045,09-abr-2025,10,Entrega no prazo e time muito atencioso.
+PSQ0035,PRJ0046,04/08/2024,10,O painel virou rotina da diretoria.
+PSQ0036,PRJ0047,2024-12-20,6,Atraso significativo na entrega.
+PSQ0037,PRJ0049,2026-03-16,10,Entrega no prazo e time muito atencioso.
+PSQ0038,PRJ0050,2025-11-18,8,"Bom projeto, comunicação pode melhorar."
+PSQ0039,PRJ0051,2025-01-10,7,Atendeu ao combinado.
+PSQ0040,PRJ0052,15/05/2026,8,"Resultado ok, prazo apertado."
+PSQ0041,PRJ0053,06-mai-2026,9,Entrega no prazo e time muito atencioso.
+PSQ0042,PRJ0055,11/04/2024,9,Entrega no prazo e time muito atencioso.
+PSQ0043,PRJ0057,2026-05-11,,Entrega no prazo e time muito atencioso.
+PSQ0044,PRJ0059,2025-05-19,4,Atraso significativo na entrega.
+PSQ0045,PRJ0060,2025-05-20,9,Documentação impecável.
+PSQ0046,PRJ0061,2025-06-16,8,"Resultado ok, prazo apertado."
+PSQ0047,PRJ0064,03/06/2026,10,Documentação impecável.
+PSQ0048,PRJ0065,08-abr-2026,10,O painel virou rotina da diretoria.
+PSQ0049,PRJ0066,12/30/2024,10,Entrega no prazo e time muito atencioso.
+PSQ0050,PRJ0067,2024-07-18,9,Documentação impecável.
+PSQ0051,PRJ0068,2025-03-25,9,Documentação impecável.
+PSQ0052,PRJ0069,2024-11-25,10,O painel virou rotina da diretoria.
+PSQ0053,PRJ0070,2025-08-29,9,Documentação impecável.
+PSQ0054,PRJ0071,11/03/2025,9,O painel virou rotina da diretoria.
+PSQ0055,PRJ0072,24-nov-2025,10,Entrega no prazo e time muito atencioso.
+PSQ0056,PRJ0073,03/24/2025,10,O painel virou rotina da diretoria.
+PSQ0057,PRJ0074,2025-11-17,,Entrega no prazo e time muito atencioso.
+PSQ0058,PRJ0075,2025-09-15,8,"Resultado ok, prazo apertado."
+PSQ0059,PRJ0076,2024-06-26,10,Documentação impecável.
+PSQ0060,PRJ0077,2025-01-13,10,Documentação impecável.
+PSQ0061,PRJ0078,10/11/2025,9,O painel virou rotina da diretoria.
+PSQ0062,PRJ0079,04-ago-2025,10,Ganhamos agilidade nas decisões.
+PSQ0063,PRJ0080,12/09/2024,9,O painel virou rotina da diretoria.
+PSQ0064,PRJ0084,2025-10-07,10,Entrega no prazo e time muito atencioso.
+PSQ0065,PRJ0086,2026-06-22,8,"Bom projeto, comunicação pode melhorar."
+PSQ0066,PRJ0087,2025-11-24,10,Ganhamos agilidade nas decisões.
+PSQ0067,PRJ0088,2025-10-24,5,Suporte demorou a responder.
+PSQ0068,PRJ0089,02/10/2024,7,Atendeu ao combinado.
+PSQ0069,PRJ0090,22-nov-2024,10,Entrega no prazo e time muito atencioso.
+PSQ0070,PRJ0091,01/14/2026,7,"Resultado ok, prazo apertado."
+PSQ0071,PRJ0092,2024-09-05,,O painel virou rotina da diretoria.
+PSQ0072,PRJ0093,2024-12-02,9,Documentação impecável.
+PSQ0073,PRJ0094,2025-10-08,7,Atendeu ao combinado.
+PSQ0074,PRJ0096,2026-06-15,10,Ganhamos agilidade nas decisões.
+PSQ0075,PRJ0097,01/07/2024,10,O painel virou rotina da diretoria.
+PSQ0076,PRJ0098,23-out-2025,8,Atendeu ao combinado.
+PSQ0077,PRJ0099,07/14/2025,10,Ganhamos agilidade nas decisões.
+PSQ0078,PRJ0100,2026-06-22,10,O painel virou rotina da diretoria.
+PSQ0079,PRJ0102,2025-03-10,6,Precisamos refazer parte do painel.
+PSQ0080,PRJ0104,2024-06-25,8,"Bom projeto, comunicação pode melhorar."
+PSQ0081,PRJ0105,2025-12-17,8,"Bom projeto, comunicação pode melhorar."
+PSQ0082,PRJ0107,05/05/2025,7,"Bom projeto, comunicação pode melhorar."
+PSQ0083,PRJ0108,17-jul-2024,10,Entrega no prazo e time muito atencioso.
+PSQ0084,PRJ0109,06/24/2026,8,"Bom projeto, comunicação pode melhorar."
+PSQ0085,PRJ0110,2025-03-03,,Documentação impecável.
+PSQ0086,PRJ0112,2025-09-01,5,Suporte demorou a responder.
+PSQ0087,PRJ0113,2024-06-20,10,Documentação impecável.
+PSQ0088,PRJ0116,2025-06-12,10,Documentação impecável.
+PSQ0089,PRJ0117,25/08/2025,9,Ganhamos agilidade nas decisões.
+PSQ0090,PRJ0119,18-jun-2024,6,Precisamos refazer parte do painel.
+PSQ0091,PRJ0123,08/29/2025,3,Suporte demorou a responder.
+PSQ0092,PRJ0124,2024-11-18,8,Atendeu ao combinado.
+PSQ0093,PRJ0125,2025-04-21,8,"Resultado ok, prazo apertado."
+PSQ0094,PRJ0126,2026-06-17,5,Precisamos refazer parte do painel.
+PSQ0095,PRJ0127,2025-12-22,7,"Resultado ok, prazo apertado."
+PSQ0096,PRJ0128,18/06/2026,6,Atraso significativo na entrega.
+PSQ0097,PRJ0130,15-jul-2025,9,Entrega no prazo e time muito atencioso.
+PSQ0098,PRJ0132,11/21/2024,9,Entrega no prazo e time muito atencioso.
+PSQ0099,PRJ0134,2026-02-26,,"Resultado ok, prazo apertado."
+PSQ0100,PRJ0135,2024-04-19,10,O painel virou rotina da diretoria.
+PSQ0101,PRJ0137,2025-07-22,9,O painel virou rotina da diretoria.
+PSQ0102,PRJ0139,2024-12-23,7,"Bom projeto, comunicação pode melhorar."
+PSQ0103,PRJ0140,13/02/2026,8,"Bom projeto, comunicação pode melhorar."

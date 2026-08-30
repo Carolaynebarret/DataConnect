@@ -1,0 +1,25 @@
+analista_id,analista,squad,senioridade,custo_hora,data_admissao
+ANL001,Ana Barbosa,ALPHA,Senior,"150,00",2021-12-07
+ANL002,Bruno Ipiranga,Bravo,Pleno,95.00,2021-08-30
+ANL003,Carla Esteves,Charlie,Junior,55.00,2024-12-26
+ANL004,Diego Freitas,Delta,Especialista,210.00,2025-07-28
+ANL005,Elisa Werneck,Echo,Pleno,95.00,24/10/2023
+ANL006,Felipe Duarte,Foxtrot,Pleno,"95,00",02-nov-2021
+ANL007,Gabriela Werneck,Alpha,Especialista,210.00,04/02/2022
+ANL008,Henrique Lopes,Bravo,Pleno,95.00,2024-09-05
+ANL009,Isabela Nunes,CHARLIE,Pleno,95.00,2022-02-17
+ANL010,João Lopes,Delta,Junior,55.00,2025-11-17
+ANL011,Karina Barbosa,Echo,Especialista,"210,00",2023-06-03
+ANL012,Lucas Henriques,Foxtrot,Junior,55.00,25/02/2025
+ANL013,Mariana Ribeiro,Alpha,Junior,55.00,11-set-2023
+ANL014,Nelson Xavier,Bravo,Especialista,210.00,04/13/2022
+ANL015,Olívia Henriques,Charlie,Especialista,210.00,2022-04-29
+ANL016,Paulo Freitas,Delta,Especialista,"210,00",2023-09-23
+ANL017,Queila Xavier,ECHO,Junior,55.00,2023-04-12
+ANL018,Rafael Nunes,Foxtrot,Senior,150.00,2025-11-29
+ANL019,Sofia Xavier,Alpha,Pleno,95.00,17/12/2025
+ANL020,Thiago Freitas,Bravo,Junior,55.00,30-out-2025
+ANL021,Úrsula Marques,Charlie,Senior,"150,00",08/19/2021
+ANL022,Vinícius Henriques,Delta,Senior,150.00,2022-07-14
+ANL023,Wanda Oliveira,Echo,Senior,150.00,2023-05-18
+ANL024,Yuri Henriques,Foxtrot,Junior,55.00,2022-08-31
