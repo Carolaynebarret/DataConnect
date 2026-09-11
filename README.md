@@ -17,7 +17,7 @@ formatos de data e número, categorias com grafias diferentes, duplicatas,
 valores fora de escala) e é diagnosticada, limpa e validada de ponta a ponta,
 com cada decisão de tratamento documentada e registrada em log.
 
-> Autoria: Carolayne, Regina, Maxxi e Ingrid.
+> Autoria: Carolayne, Regina.
 
 ## Funcionalidades
 
