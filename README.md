@@ -105,8 +105,7 @@ Colab* no topo do arquivo, envie os cinco CSVs (`dc_projetos.csv`,
 `dc_satisfacao.csv`) para uma pasta no seu Google Drive e ajuste `PASTA` na
 célula "Onde estão os arquivos" para apontar para ela.
 
-**Localmente**, com os CSVs na raiz do repositório (como já estão neste
-repositório):
+**Localmente**, com os CSVs em `data/` (como já estão neste repositório):
 
 ```bash
 jupyter notebook dataconnect_squad7.ipynb
@@ -125,8 +124,9 @@ por:
 USAR_DRIVE = False
 ```
 
-e rode todas as células em ordem. Ao final, as bases limpas e as tabelas de
-painel são exportadas para `PASTA/bases_limpas/`.
+e rode todas as células em ordem — fora do Colab, a própria célula resolve
+`PASTA` para `./data`. Ao final, as bases limpas e as tabelas de painel são
+exportadas para `data/bases_limpas/`.
 
 ## Como rodar as validações
 
@@ -157,11 +157,12 @@ retornaram `PASSOU`.
 ```
 DataConnect/
 ├── dataconnect_squad7.ipynb   # notebook principal: diagnóstico, limpeza, prova real e análise
-├── dc_projetos.csv            # base bruta: projetos
-├── dc_apontamentos.csv        # base bruta: apontamento de horas
-├── dc_clientes.csv            # base bruta: clientes
-├── dc_analistas.csv           # base bruta: analistas
-├── dc_satisfacao.csv          # base bruta: pesquisas de satisfação (NPS)
+├── data/                      # bases brutas (entrada) e, após rodar o notebook, bases_limpas/ (saída)
+│   ├── dc_projetos.csv        # base bruta: projetos
+│   ├── dc_apontamentos.csv    # base bruta: apontamento de horas
+│   ├── dc_clientes.csv        # base bruta: clientes
+│   ├── dc_analistas.csv       # base bruta: analistas
+│   └── dc_satisfacao.csv      # base bruta: pesquisas de satisfação (NPS)
 ├── sql/
 │   └── validacao.sql          # validação cruzada das bases limpas, em SQL/SQLite
 ├── docs/
@@ -172,6 +173,19 @@ DataConnect/
 └── README.md
 ```
 
+## Painel de BI
+
+O painel final, alimentado por `data/bases_limpas/painel_projetos.csv` e
+`painel_clientes.csv`, está publicado no Looker Studio (ex-Data Studio):
+[Mini Desafio: DataConnect](https://datastudio.google.com/reporting/96eb5376-0a1f-4da3-b404-134e145b9881).
+
+> ⚠️ No momento, abrindo o link sem estar autenticado numa conta Google com
+> acesso, vários gráficos exibem "O Data Studio encontrou um erro do
+> sistema" — indício de que a fonte de dados (provavelmente uma Planilha
+> Google) não está compartilhada como "qualquer pessoa com o link". Vale
+> checar o compartilhamento da fonte de dados no Looker Studio para que o
+> painel abra corretamente para quem não tem acesso prévio.
+
 ## Riscos residuais e limitações conhecidas
 
 - O notebook depende do módulo `google.colab` quando `USAR_DRIVE = True`;
@@ -181,7 +195,6 @@ DataConnect/
   SQL independente, descritos na seção anterior.
 - A pasta `arquivo/` guarda rascunhos anteriores do desafio, mantidos de
   propósito como histórico do processo (não são o entregável final).
-
 
 ## Contribuição
 
