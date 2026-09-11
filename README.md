@@ -179,12 +179,13 @@ O painel final, alimentado por `data/bases_limpas/painel_projetos.csv` e
 `painel_clientes.csv`, está publicado no Looker Studio (ex-Data Studio):
 [Mini Desafio: DataConnect](https://datastudio.google.com/reporting/96eb5376-0a1f-4da3-b404-134e145b9881).
 
-> ⚠️ No momento, abrindo o link sem estar autenticado numa conta Google com
-> acesso, vários gráficos exibem "O Data Studio encontrou um erro do
-> sistema" — indício de que a fonte de dados (provavelmente uma Planilha
-> Google) não está compartilhada como "qualquer pessoa com o link". Vale
-> checar o compartilhamento da fonte de dados no Looker Studio para que o
-> painel abra corretamente para quem não tem acesso prévio.
+> ⚠️ Os gráficos exibem "O Data Studio encontrou um erro do sistema" para
+> quem abre o link sem estar logado em alguma conta Google — os CSVs foram
+> conectados por upload direto de arquivo (não via Planilhas Google), e
+> fontes desse tipo no Looker Studio exigem que o visitante esteja
+> autenticado em qualquer conta Google, mesmo com o relatório compartilhado
+> como "qualquer pessoa com o link". Para quem não tem/não quer usar conta
+> Google, use o PDF exportado como alternativa estática ao painel ao vivo.
 
 ## Riscos residuais e limitações conhecidas
 
