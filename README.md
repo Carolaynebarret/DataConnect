@@ -181,10 +181,12 @@ O painel final, alimentado por `data/bases_limpas/painel_projetos.csv` e
 
 > ⚠️ No momento, abrindo o link sem estar autenticado numa conta Google com
 > acesso, vários gráficos exibem "O Data Studio encontrou um erro do
-> sistema" — indício de que a fonte de dados (provavelmente uma Planilha
-> Google) não está compartilhada como "qualquer pessoa com o link". Vale
-> checar o compartilhamento da fonte de dados no Looker Studio para que o
-> painel abra corretamente para quem não tem acesso prévio.
+> sistema". Os CSVs foram conectados por upload direto de arquivo (não via
+> Planilhas Google), então o problema não é permissão de uma fonte externa —
+> é o compartilhamento do próprio relatório. Para corrigir: no Looker
+> Studio, com o relatório aberto, clique em **Compartilhar → Gerenciar
+> acesso** e mude o "Acesso geral" de restrito para **"Qualquer pessoa com o
+> link"** (função Leitor). Teste depois numa aba anônima, sem estar logada.
 
 ## Riscos residuais e limitações conhecidas
 
