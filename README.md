@@ -181,24 +181,11 @@ DataConnect/
   SQL independente, descritos na seção anterior.
 - A pasta `arquivo/` guarda rascunhos anteriores do desafio, mantidos de
   propósito como histórico do processo (não são o entregável final).
-- A célula "10. Registro de uso de IA" tem um campo ("o que corrigimos" da
-  etapa Margem) ainda com o texto de preenchimento `[preencher depois de
-  rodar]` — ficou pendente de ser concluído pelo squad com o resultado real
-  da rodada.
 
-## Roadmap
-
-- [ ] Preencher o campo pendente do registro de uso de IA (etapa "Margem").
-- [ ] Adicionar capturas de tela do painel final e do gráfico de diagnóstico
-      em `docs/images/` (ver [`docs/images/README.md`](docs/images/README.md)).
-- [ ] Publicar o painel de BI alimentado por `painel_projetos.csv` e
-      `painel_clientes.csv`.
-- [ ] Avaliar automatizar a validação SQL (hoje manual, via DB Browser) em
-      um script que rode `sql/validacao.sql` contra um SQLite temporário.
 
 ## Contribuição
 
-Este é um projeto acadêmico de squad, desenvolvido para fins de aprendizado
+Este é um projeto, desenvolvido para fins de aprendizado
 durante a Residência TIC em Trilhas – Área de Dados com IA (PUC-Rio /
 Instituto ECOA). Sugestões e correções são bem-vindas via *issues* ou
 *pull requests*.
