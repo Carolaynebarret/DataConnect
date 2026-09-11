@@ -1,0 +1,24 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache e artefatos de execução do Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Saída gerada pelo notebook ao rodar localmente (PASTA/bases_limpas)
+bases_limpas/
+
+# Bancos SQLite criados ao seguir sql/validacao.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# Variáveis de ambiente / segredos locais
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

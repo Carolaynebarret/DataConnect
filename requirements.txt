@@ -1,0 +1,11 @@
+# Dependências usadas pelo notebook dataconnect_squad7.ipynb.
+# Testado localmente com Python 3.11+ (o notebook também roda sem alterações
+# no Google Colab, que já traz estas bibliotecas pré-instaladas).
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10
+statsmodels>=0.14
+ipython>=8.0
+jupyter>=1.0
