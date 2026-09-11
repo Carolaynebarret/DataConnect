@@ -173,6 +173,19 @@ DataConnect/
 └── README.md
 ```
 
+## Painel de BI
+
+O painel final, alimentado por `data/bases_limpas/painel_projetos.csv` e
+`painel_clientes.csv`, está publicado no Looker Studio (ex-Data Studio):
+[Mini Desafio: DataConnect](https://datastudio.google.com/reporting/96eb5376-0a1f-4da3-b404-134e145b9881).
+
+> ⚠️ No momento, abrindo o link sem estar autenticado numa conta Google com
+> acesso, vários gráficos exibem "O Data Studio encontrou um erro do
+> sistema" — indício de que a fonte de dados (provavelmente uma Planilha
+> Google) não está compartilhada como "qualquer pessoa com o link". Vale
+> checar o compartilhamento da fonte de dados no Looker Studio para que o
+> painel abra corretamente para quem não tem acesso prévio.
+
 ## Riscos residuais e limitações conhecidas
 
 - O notebook depende do módulo `google.colab` quando `USAR_DRIVE = True`;
@@ -192,8 +205,11 @@ DataConnect/
 - [ ] Preencher o campo pendente do registro de uso de IA (etapa "Margem").
 - [ ] Adicionar capturas de tela do painel final e do gráfico de diagnóstico
       em `docs/images/` (ver [`docs/images/README.md`](docs/images/README.md)).
-- [ ] Publicar o painel de BI alimentado por `painel_projetos.csv` e
-      `painel_clientes.csv`.
+- [x] Publicar o painel de BI alimentado por `painel_projetos.csv` e
+      `painel_clientes.csv` (ver seção "Painel de BI" acima).
+- [ ] Corrigir o compartilhamento da fonte de dados do painel, hoje
+      inacessível para quem abre o link sem estar logado numa conta com
+      permissão (ver ressalva na seção "Painel de BI").
 - [ ] Avaliar automatizar a validação SQL (hoje manual, via DB Browser) em
       um script que rode `sql/validacao.sql` contra um SQLite temporário.
 
